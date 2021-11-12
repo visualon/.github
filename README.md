@@ -1,2 +1,1 @@
-# .github
-VisualOn GmbH
+# VisualOn GmbH
